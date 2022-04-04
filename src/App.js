@@ -9,6 +9,7 @@ import Simpleroute from "./pages/reactroutes/simpleroute";
 import Mainprop from "./pages/props/mainprop";
 import Usefetchis from "./pages/usefetch/usefetchis";
 import Usestate from "./pages/hooks/usestate";
+import Styling from "./pages/styiing/styling";
 
 function App() {
   return (
@@ -23,7 +24,9 @@ function App() {
       {/* <Simpleroute/> */}
       {/* <Mainprop/> */}
       {/* <Usefetchis/> */}
-      <Usestate/>
+      {/* <Usestate/> */}
+      {/* <Usestate/> */}
+      <Styling/>
     </div>
   );
 }
