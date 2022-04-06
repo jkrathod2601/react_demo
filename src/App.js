@@ -10,6 +10,7 @@ import Mainprop from "./pages/props/mainprop";
 import Usefetchis from "./pages/usefetch/usefetchis";
 import Usestate from "./pages/hooks/usestate";
 import Styling from "./pages/styiing/styling";
+import Chart from "./pages/chart/chart";
 
 function App() {
   return (
@@ -26,7 +27,8 @@ function App() {
       {/* <Usefetchis/> */}
       {/* <Usestate/> */}
       {/* <Usestate/> */}
-      <Styling/>
+      {/* <Styling/> */}
+      <Chart></Chart>
     </div>
   );
 }
