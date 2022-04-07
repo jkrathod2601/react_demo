@@ -11,7 +11,8 @@ import "./App.css";
 // import Usestate from "./pages/hooks/usestate";
 // import Styling from "./pages/styiing/styling";
 // import Chart from "./pages/chart/chart";
-import Main from "./pages/context/main";
+// import Main from "./pages/context/main";
+import Main from "./pages/reduxpractice/main";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       {/* <Usestate/> */}
       {/* <Styling/> */}
       {/* <Chart></Chart> */}
+      {/* <Main></Main> */}
       <Main></Main>
     </div>
   );

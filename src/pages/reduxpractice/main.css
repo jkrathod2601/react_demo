@@ -1,0 +1,15 @@
+.buttoninput{
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+    /* border: 2px solid black; */
+    /* text-align: center; */
+    display: flex;
+    justify-content:space-between;
+}
+
+h1{
+    margin-top: 5%;
+    font-size: 100px;
+    font-family: 'Babylonica', cursive;
+}
