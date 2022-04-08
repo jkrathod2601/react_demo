@@ -1,5 +1,5 @@
 // import { useEffect, useState } from "react";
-import "./App.css";
+// import "./App.css";
 // import axios from "axios";
 // import Apitest from '../src/pages/api_test/Apitest'
 // import Main from '../src/pages/formhandling/main'
@@ -12,7 +12,8 @@ import "./App.css";
 // import Styling from "./pages/styiing/styling";
 // import Chart from "./pages/chart/chart";
 // import Main from "./pages/context/main";
-import Main from "./pages/reduxpractice/main";
+// import Main from "./pages/reduxpractice/main";
+import Usememohook from "./pages/hooks/usememohooks";
 
 function App() {
   return (
@@ -32,7 +33,8 @@ function App() {
       {/* <Styling/> */}
       {/* <Chart></Chart> */}
       {/* <Main></Main> */}
-      <Main></Main>
+      {/* <Main></Main> */}
+      {/* <Usememohook></Usememohook> */}
     </div>
   );
 }
