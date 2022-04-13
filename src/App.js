@@ -13,7 +13,8 @@
 // import Chart from "./pages/chart/chart";
 // import Main from "./pages/context/main";
 // import Main from "./pages/reduxpractice/main";
-import Usememohook from "./pages/hooks/usememohooks";
+// import Usememohook from "./pages/hooks/usememohooks";
+import Userefhook from "./pages/hooks/userefook";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
       {/* <Main></Main> */}
       {/* <Main></Main> */}
       {/* <Usememohook></Usememohook> */}
+      <Userefhook/>
     </div>
   );
 }
